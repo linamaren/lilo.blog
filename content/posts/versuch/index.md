@@ -71,16 +71,16 @@ ob sie den Anforderungen der modernen Welt ausreichend gerecht werden kann.
 ### Die Pädagogik spürbar am Basar
 
 In den Theatersälen, welche das gleiche architektonische Muster aufweisen, wie der Rest des
-Gebäudes, sind Kurzauftritte von Schüler*innen der Schule zu sehen. Beim Betrachten dieser
+Gebäudes, sind Kurzauftritte von Schüler*i*nnen der Schule zu sehen. Beim Betrachten dieser
 Darbietungen ist zu erkennen, dass diese hervorragend strukturiert sind und authentisch wirken. Die
 Kinder entfalten auf dieser Bühne förmlich ihr Inneres, sie drücken Einklang zwischen Geist, Körper
-und Seele aus und verzaubern die Menschenmassen. Die Auftritte gehen zu Ende und der Applaus
+und Seele aus und verzaubern die Menschenmassen*.* Die Auftritte gehen zu Ende und der Applaus
 beginnt zu toben. Die Menschen erheben sich und strömen mit heiteren Gesprächen aus dem Saal.
 Auf einer Steinbank sitzend, wird das Gehörte und Gesehene eingeordnet und reflektiert. Die
 selbstgefertigten Postkarten, Kerzen und der Schmuck, welche auf den Basarständen präsentiert
 werden, spiegeln den Fokus auf kreatives Schaffen und Selbstentfaltung wider. Die individuelle
 Entwicklung und hauswirtschaftlichen Fähigkeiten werden beim Basar gefördert, da die Kinder die
-Stände teils selbst betreiben. Die Schüler*innen sind aktiv in den Organisationsprozess eingebunden,
+Stände teils selbst betreiben. *Die Schüler*innen sind aktiv in den Organisationsprozess eingebunden,
 sei es bei der Auswahl der Produkte, beim Aufbau von Ständen oder bei der Durchführung von
 Aktivitäten. Dies spiegelt die Vision wider, dass Bildung ein gemeinschaftlicher Prozess ist, in welchem
 Lehrpersonen und Kinder eine gleichwertige Rolle spielen.
@@ -95,9 +95,7 @@ Anpassungsfähigkeit an moderne Anforderungen ist offen. Schlussendlich ist der 
 welches Einblicke hinter die Kulissen ermöglicht, indem die Anthroposophie und ihre Pädagogik
 erlebbar gemacht werden.
 
-{{<box>}}`{{</*box*/>}}`**Infokasten**
-
-Weltweit gibt es, Stand Mai 2020 1214 Steiner- respektive
+{{<box>}}`{{</*box*/>}}`**Infokasten** Weltweit gibt es, Stand Mai 2020 1214 Steiner- respektive
 Waldorfschulen. Die meisten befinden sich im
 Gründungsland Deutschland, dort sind es 252 an der Zahl.
 In der Schweiz sind es 32 darunter auch die Rudolf Steiner
