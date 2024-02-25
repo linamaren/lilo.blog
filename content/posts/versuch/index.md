@@ -96,7 +96,7 @@ Anpassungsfähigkeit an moderne Anforderungen ist offen. Schlussendlich ist der 
 welches Einblicke hinter die Kulissen ermöglicht, indem die Anthroposophie und ihre Pädagogik
 erlebbar gemacht werden.
 
-{{<box>}}
+
 
 `{{</*box*/>}}`
 
@@ -109,8 +109,5 @@ In der Schweiz sind es 32 darunter auch die Rudolf Steiner
 Schule in Ittigen.
 
 `{{</*/box*/>}}`
-
-##### \
-{{</box>}}
 
 #####
