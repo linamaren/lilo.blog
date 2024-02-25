@@ -1,9 +1,9 @@
 +++
-title = "Basar, Bildung, Gemeinschaft Die einzigartige Welt der Rudolf Steiner Schule"
+title = "Example Post"
 date = "2024-02-25"
 draft = false
 pinned = false
-tags = ["SteinerSchule", "Pädagogik", "Basar"]
+tags = ["Lilo", "Example"]
 description = "Dies ist ein versuch"
 +++
 {{<lead>}}
