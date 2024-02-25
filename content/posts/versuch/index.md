@@ -80,7 +80,7 @@ Auf einer Steinbank sitzend, wird das Gehörte und Gesehene eingeordnet und refl
 selbstgefertigten Postkarten, Kerzen und der Schmuck, welche auf den Basarständen präsentiert
 werden, spiegeln den Fokus auf kreatives Schaffen und Selbstentfaltung wider. Die individuelle
 Entwicklung und hauswirtschaftlichen Fähigkeiten werden beim Basar gefördert, da die Kinder die
-Stände teils selbst betreiben. *Die Schüler*innen sind aktiv in den Organisationsprozess eingebunden,
+Stände teils selbst betreiben. Die Schülerinnen sind aktiv in den Organisationsprozess eingebunden,
 sei es bei der Auswahl der Produkte, beim Aufbau von Ständen oder bei der Durchführung von
 Aktivitäten. Dies spiegelt die Vision wider, dass Bildung ein gemeinschaftlicher Prozess ist, in welchem
 Lehrpersonen und Kinder eine gleichwertige Rolle spielen.
