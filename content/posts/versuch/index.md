@@ -1,10 +1,10 @@
 +++
-title = "Example Post"
+title = "Basar, Bildung ,Gemeinschaft: Die einzigartige Welt der Rudolf Steiner Schule"
 date = "2024-02-25"
 draft = false
 pinned = false
-tags = ["Lilo", "Example"]
-description = "Dies ist ein versuch"
+tags = ["SteinerSchule", "Pädagogik", "Basar"]
+description = ""
 +++
 {{<lead>}}
 Versuch. Versuch; Versuch, Versuch
