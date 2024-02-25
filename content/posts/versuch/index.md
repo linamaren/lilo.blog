@@ -25,7 +25,13 @@ Um mehr über diese besondere Bildungsphilosophie zu erfahren, gibt es nur einen
 
 ![Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachte Holzfiguren und Gemälden.](basar-bild.jpg "Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachte Holzfiguren und Gemälden.")
 
-## Überschrift 2
+
+
+<!--StartFragment-->
+
+**Die Pädagogik hinter der Rudolf Steiner Schule**
+
+<!--EndFragment-->
 
 Dies ist die Überschrift 2 (H2).
 
