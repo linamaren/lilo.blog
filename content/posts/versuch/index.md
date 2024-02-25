@@ -68,9 +68,33 @@ ob sie den Anforderungen der modernen Welt ausreichend gerecht werden kann.
 
 ![Tanz der Harmonie von Seele, Körper und Geist. Schüler*innen führen Eurythmie auf der Rudolf-Steiner-Schule Bühne auf. (verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024](eurythmie.png "Tanz der Harmonie von Seele, Körper und Geist. Schüler*innen führen Eurythmie auf der Rudolf-Steiner-Schule Bühne auf. (verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024")
 
-### Überschrift 3
+#### Die Pädagogik spürbar am Basar
 
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
+In den Theatersälen, welche das gleiche architektonische Muster aufweisen, wie der Rest des
+Gebäudes, sind Kurzauftritte von Schüler*innen der Schule zu sehen. Beim Betrachten dieser
+Darbietungen ist zu erkennen, dass diese hervorragend strukturiert sind und authentisch wirken. Die
+Kinder entfalten auf dieser Bühne förmlich ihr Inneres, sie drücken Einklang zwischen Geist, Körper
+und Seele aus und verzaubern die Menschenmassen. Die Auftritte gehen zu Ende und der Applaus
+beginnt zu toben. Die Menschen erheben sich und strömen mit heiteren Gesprächen aus dem Saal.
+Auf einer Steinbank sitzend, wird das Gehörte und Gesehene eingeordnet und reflektiert. Die
+selbstgefertigten Postkarten, Kerzen und der Schmuck, welche auf den Basarständen präsentiert
+werden, spiegeln den Fokus auf kreatives Schaffen und Selbstentfaltung wider. Die individuelle
+Entwicklung und hauswirtschaftlichen Fähigkeiten werden beim Basar gefördert, da die Kinder die
+Stände teils selbst betreiben. Die Schüler*innen sind aktiv in den Organisationsprozess eingebunden,
+sei es bei der Auswahl der Produkte, beim Aufbau von Ständen oder bei der Durchführung von
+Aktivitäten. Dies spiegelt die Vision wider, dass Bildung ein gemeinschaftlicher Prozess ist, in welchem
+Lehrpersonen und Kinder eine gleichwertige Rolle spielen.
+
+
+Der Basar der Steiner Schule in Ittigen ist somit nicht nur ein Schulanlass für handgemachte Waren,
+sondern er gewährt einen Einblick in die Grundprinzipien dieser alternativen Bildungsrichtung.
+Individualität, Gemeinschaft und die gelebten Werte der Kreativität, welche im Schulalltag eine
+zentrale Rolle spielen, werden hierbei reflektiert und nach außen getragen. Durch Aufführungen wird
+das Streben nach Einklang zwischen Geist, Körper und Seele vermittelt. Die Debatte über die
+Effektivität dieser alternativen Bildung bleibt ein kontroverses Thema. Die Frage bezüglich ihrer
+Anpassungsfähigkeit an moderne Anforderungen ist offen. Schlussendlich ist der Basar ein Fenster,
+welches Einblicke hinter die Kulissen ermöglicht, indem die Anthroposophie und ihre Pädagogik
+erlebbar gemacht werden.
 
 #### Überschrift 4
 
