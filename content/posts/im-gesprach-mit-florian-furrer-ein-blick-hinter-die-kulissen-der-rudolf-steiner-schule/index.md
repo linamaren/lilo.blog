@@ -118,24 +118,24 @@ Ich hoffe, dass zukünftig mehr Vertrauen in die Schule gelegt wird. Sie soll we
 
 Alles, was anders ist wird stigmatisiert. Jedoch kann man dies abbauen, indem man sich kennenlernt und kommuniziert.   
 
- 
-
- Oft wird kritisiert, dass Rudolf-Steiner-Schulen keine unabhängigen, ergebnisoffenen Untersuchungen, ihrer pädagogischen Praxis zu lassen. Denken Sie, die Kritik ist zutreffend, und wenn ja wieso denken sie ist das so? 
+Oft wird kritisiert, dass Rudolf-Steiner-Schulen keine unabhängigen, ergebnisoffenen Untersuchungen, ihrer pädagogischen Praxis zu lassen. Denken Sie, die Kritik ist zutreffend, und wenn ja wieso denken sie ist das so? 
 
 Die Nationalen Weiterbildungskurse sind öffentlich und da kann jeder hingehen. Auch alle Lehrer besuchen diesen Kurs.  
 
  
 
-Welchen Zweck erfüllt der heutige Basar?  
+**Welchen Zweck erfüllt der heutige Basar?**  
 
 Oberste Priorität hat die Stärkung der Schulgemeinschaft. Ausserdem wird der Anlass zu Werbezwecken genutzt und hat eine finanzielle Bedeutung.  
 
  
 
-Was soll dieser Anlass bei den Kindern fördern? 
+**Was soll dieser Anlass bei den Kindern fördern?** 
 
 Es soll Gemeinschaft, Pflege und Hauswirtschaft fördern. Aber auch das Gemeinschaftsgefühlt und die Kultur soll gestärkt werden.  
 
  
 
-<!--EndFragment-->
+
+
+> *«Die Welt ist gut, die Welt ist schön, die Welt ist wahr.»* (Florian Furrer)
