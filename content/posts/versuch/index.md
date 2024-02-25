@@ -62,7 +62,9 @@ Debatte über diesen alternativen Bildungsweg wird weithin kontrovers geführt. 
 sind, ob die Rudolf Steiner Schule tatsächlich einen Weg zu einer ganzheitlichen Bildung darstellt und
 ob sie den Anforderungen der modernen Welt ausreichend gerecht werden kann.
 
-
+> *«Ich hoffe, dass zukünftig mehr Vertrauen in die Schule gelegt
+> wird. Sie soll weniger stigmatisiert und ohne Vorurteile
+> betrachtet werden.»* (Florian Furrer, 25.11.2023)
 
 ### Überschrift 3
 
