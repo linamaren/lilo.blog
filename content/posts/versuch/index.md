@@ -96,26 +96,21 @@ Anpassungsfähigkeit an moderne Anforderungen ist offen. Schlussendlich ist der 
 welches Einblicke hinter die Kulissen ermöglicht, indem die Anthroposophie und ihre Pädagogik
 erlebbar gemacht werden.
 
-#### Überschrift 4
+{{<box>}}
 
-## Weitere Textformatierungen
+`{{</*box*/>}}`
 
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
+##### Infokasten
 
-### Fett und Kursiv
+Weltweit gibt es, Stand Mai 2020 1214 Steiner- respektive
+Waldorfschulen. Die meisten befinden sich im
+Gründungsland Deutschland, dort sind es 252 an der Zahl.
+In der Schweiz sind es 32 darunter auch die Rudolf Steiner
+Schule in Ittigen.
 
-Natürlich gibt es auch **fett** und *kursiv*.
+`{{</*/box*/>}}`
 
-### Links
+##### \
+{{</box>}}
 
-[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
-
-### Zitate
-
-> «Zitate können hervorgehoben werden.»
->
-> *Autor mit [Link zur Quelle](https://www.lilo.blog)*
-
-Die Quellenangabe muss *kursiv* geschrieben werden, damit sie als Fusszeile erkannt wird.
-
-### Liste
+#####
