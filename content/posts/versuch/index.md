@@ -66,6 +66,8 @@ ob sie den Anforderungen der modernen Welt ausreichend gerecht werden kann.
 > wird. Sie soll weniger stigmatisiert und ohne Vorurteile
 > betrachtet werden.»* (Florian Furrer, 25.11.2023)
 
+![Tanz der Harmonie von Seele, Körper und Geist. Schüler*innen führen Eurythmie auf der Rudolf-Steiner-Schule Bühne auf. (verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024](eurythmie.png "Tanz der Harmonie von Seele, Körper und Geist. Schüler*innen führen Eurythmie auf der Rudolf-Steiner-Schule Bühne auf. (verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024")
+
 ### Überschrift 3
 
 Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
