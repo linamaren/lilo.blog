@@ -95,7 +95,11 @@ Anpassungsfähigkeit an moderne Anforderungen ist offen. Schlussendlich ist der 
 welches Einblicke hinter die Kulissen ermöglicht, indem die Anthroposophie und ihre Pädagogik
 erlebbar gemacht werden.
 
-{{<box>}}`{{</*box*/>}}`**Infokasten** Weltweit gibt es, Stand Mai 2020 1214 Steiner- respektive
+{{<box>}}`{{</*box*/>}}`
+
+**Infokasten** 
+
+Weltweit gibt es, Stand Mai 2020 1214 Steiner- respektive
 Waldorfschulen. Die meisten befinden sich im
 Gründungsland Deutschland, dort sind es 252 an der Zahl.
 In der Schweiz sind es 32 darunter auch die Rudolf Steiner
