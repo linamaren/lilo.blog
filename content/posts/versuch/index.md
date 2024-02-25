@@ -23,7 +23,7 @@ Um mehr über diese besondere Bildungsphilosophie zu erfahren, gibt es nur einen
 
 ![Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachte Holzfiguren und Gemälden.](basar-bild.jpg "Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachte Holzfiguren und Gemälden.")
 
-#### **Die Pädagogik hinter der Rudolf Steiner Schule**
+### **Die Pädagogik hinter der Rudolf Steiner Schule**
 
 Die Atmosphäre an der Rudolf Steiner Schule zeichnet sich durch Kreativität und Individualität aus. Dies wird beim Durchschlendern des Basars deutlich spürbar. Hier liegt der Fokus auf der natürlichen Entwicklung des Kindes. Lehrpläne unterscheiden sich in grossen Teilen von den herkömmlichen. Sie sind nicht durchstrukturiert, sondern dienen nur als grober Richtwert. Der Unterricht wird in Epochen gestaltet, was bedeutet, dass sich die Schüler*innen für längere Zeit auf ein bestimmtes Fach konzentrieren. Dies ermöglicht ein tieferes Eintauchen in das Thema. Denn in Unterrichtseinheiten gilt Qualität vor Quantität. Es wird weniger Stoff behandelt, jedoch wird das Wissen viel intensiver und tiefer vermittelt, um Informationen langfristig zu lehren. Danach kann man die «Wissenslücken» einfach füllen, da man das grosse Ganze verstanden und noch präsent hat, so zumindest laut Herr Florian Furrer, Lehrer an der Rudolf Steiner Schule Ittigen und Standortleitung dieser Schule. 
 
@@ -37,7 +37,7 @@ Das Leitbild der Rudolf Steiner Schulen stützt sich auf den Glauben an die Geme
 > Gemeinschaftsgefühl und die Kultur sollen gestärkt werden. Die Kinder sollen realisieren,
 > dass sie die Schule sind.»* (Florian Furrer, 25.11.2023)
 
-#### Diese Philosophie stösst auch auf Kritik
+### Diese Philosophie stösst auch auf Kritik
 
 Heutzutage kritisieren einige dieses Lernmodel, da es angeblich für die Kinder nicht fördernd sei,
 wenn sie eine zu starke emotionale Bindung zu einer Lehrperson hätten. Ausserdem sei es fast
@@ -68,7 +68,7 @@ ob sie den Anforderungen der modernen Welt ausreichend gerecht werden kann.
 
 ![Tanz der Harmonie von Seele, Körper und Geist. Schüler*innen führen Eurythmie auf der Rudolf-Steiner-Schule Bühne auf. (verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024](eurythmie.png "Tanz der Harmonie von Seele, Körper und Geist. Schüler*innen führen Eurythmie auf der Rudolf-Steiner-Schule Bühne auf. (verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024")
 
-#### Die Pädagogik spürbar am Basar
+### Die Pädagogik spürbar am Basar
 
 In den Theatersälen, welche das gleiche architektonische Muster aufweisen, wie der Rest des
 Gebäudes, sind Kurzauftritte von Schüler*innen der Schule zu sehen. Beim Betrachten dieser
@@ -85,7 +85,6 @@ sei es bei der Auswahl der Produkte, beim Aufbau von Ständen oder bei der Durch
 Aktivitäten. Dies spiegelt die Vision wider, dass Bildung ein gemeinschaftlicher Prozess ist, in welchem
 Lehrpersonen und Kinder eine gleichwertige Rolle spielen.
 
-
 Der Basar der Steiner Schule in Ittigen ist somit nicht nur ein Schulanlass für handgemachte Waren,
 sondern er gewährt einen Einblick in die Grundprinzipien dieser alternativen Bildungsrichtung.
 Individualität, Gemeinschaft und die gelebten Werte der Kreativität, welche im Schulalltag eine
@@ -95,8 +94,6 @@ Effektivität dieser alternativen Bildung bleibt ein kontroverses Thema. Die Fra
 Anpassungsfähigkeit an moderne Anforderungen ist offen. Schlussendlich ist der Basar ein Fenster,
 welches Einblicke hinter die Kulissen ermöglicht, indem die Anthroposophie und ihre Pädagogik
 erlebbar gemacht werden.
-
-
 
 `{{</*box*/>}}`
 
@@ -109,5 +106,3 @@ In der Schweiz sind es 32 darunter auch die Rudolf Steiner
 Schule in Ittigen.
 
 `{{</*/box*/>}}`
-
-#####
