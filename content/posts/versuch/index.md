@@ -17,9 +17,13 @@ Rahel Krebs, Lina Britschgi 
 
 ![Gemeinschaft und Kreativität sind das oberste Gebot! Ein Blick auf den Basar der Rudolf Steiner Schule, wo Handwerkskunst und Begegnungen im Einklang mit der Schule stehen.](basar-bild-1_compressed.png "Gemeinschaft und Kreativität sind das oberste Gebot! Ein Blick auf den Basar der Rudolf Steiner Schule, wo Handwerkskunst und Begegnungen im Einklang mit der Schule stehen.")
 
-## Überschrift 2
 
-So sieht die grösste Überschrift aus (H1).
+
+Vor dem hölzernen Eingangsbogen des alljährlichen Rudolf Steiner Schul-Basars liegt ein esoterischer Duft, der von verschiedenen Essensgerüchen durchbrochen wird, in der kalten Luft. Zwei Schritte unter dem Bogen durch und schon ist man mitten im Geschehen. Essensstände zur Linken und Rechten, spielende Kinder in einem abgesperrten Bereich auf Vehikeln aller Art. Der Blick wandert über das Geschehen und bleibt bei den Eingangstoren des imposanten Gebäudes stehen. Es ähnelt der ersten Schule ihrer Art, Fenster mit runden Ecken im Zusammenspiel mit untypischen Winkeln in der Fassade. 1919 entwarf Rudolf Steiner die erste Waldorf Schule, der Auftrag kam von Emil Molt, Besitzer der damaligen Waldorf Astoria Zigarettenfabrik. Die Vision war eine Bildung nach dem Prinzip der sozialen Gerechtigkeit. Bis heute blieb man dieser Vision treu.
+
+Um mehr über diese besondere Bildungsphilosophie zu erfahren, gibt es nur einen Weg: Ein letzter Blick auf das heitere Treiben und dann ab durch die Tür. Menschen, wo hin das Auge reicht. Stimmengewirr dröhnend in den Ohren. Wenige Augenblicke vergehen, die Sinne gewöhnen sich. Orientierung verschaffen und rein ins Getümmel.  Im Parterre unterscheidet sich das Angebot von Schulzimmer zu Schulzimmer. Von Schmuck, Kristallen, Kleidung, über Postkarten, Bilder, Holzfiguren bis zu Pflegeprodukten und Kerzen gibt es alles. Etwas fällt auf, das meiste ist in einem ähnlichen handgemachten Stil. Alles wirkt etwas alternativ; fremd denen, welche gewöhnliche Schulanlässe gewohnt sind. Im Untergeschoss sind Kinder bei verschiedensten Aktivitäten zu sehen. Die einen dekorieren Lebkuchen, die anderen ziehen Kerzen. Im Zimmer vis-à-vis sind die Klänge eines kleinen Konzerts mit Akkordeon zu vernehmen.
+
+![Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachte Holzfiguren und Gemälden.](basar-bild.jpg "Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachte Holzfiguren und Gemälden.")
 
 ## Überschrift 2
 
