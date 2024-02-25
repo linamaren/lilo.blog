@@ -21,7 +21,7 @@ Vor dem hölzernen Eingangsbogen des alljährlichen Rudolf Steiner Schul-Basars 
 
 Um mehr über diese besondere Bildungsphilosophie zu erfahren, gibt es nur einen Weg: Ein letzter Blick auf das heitere Treiben und dann ab durch die Tür. Menschen, wo hin das Auge reicht. Stimmengewirr dröhnend in den Ohren. Wenige Augenblicke vergehen, die Sinne gewöhnen sich. Orientierung verschaffen und rein ins Getümmel.  Im Parterre unterscheidet sich das Angebot von Schulzimmer zu Schulzimmer. Von Schmuck, Kristallen, Kleidung, über Postkarten, Bilder, Holzfiguren bis zu Pflegeprodukten und Kerzen gibt es alles. Etwas fällt auf, das meiste ist in einem ähnlichen handgemachten Stil. Alles wirkt etwas alternativ; fremd denen, welche gewöhnliche Schulanlässe gewohnt sind. Im Untergeschoss sind Kinder bei verschiedensten Aktivitäten zu sehen. Die einen dekorieren Lebkuchen, die anderen ziehen Kerzen. Im Zimmer vis-à-vis sind die Klänge eines kleinen Konzerts mit Akkordeon zu vernehmen.
 
-![Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachte Holzfiguren und Gemälden.](basar-bild.jpg "Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachte Holzfiguren und Gemälden.")
+![Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachten Holzfiguren und Gemälden.](basar-bild.jpg "Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachten Holzfiguren und Gemälden.")
 
 ### **Die Pädagogik hinter der Rudolf Steiner Schule**
 
@@ -66,7 +66,7 @@ ob sie den Anforderungen der modernen Welt ausreichend gerecht werden kann.
 > wird. Sie soll weniger stigmatisiert und ohne Vorurteile
 > betrachtet werden.»* (Florian Furrer, 25.11.2023)
 
-![Tanz der Harmonie von Seele, Körper und Geist. Schüler*innen führen Eurythmie auf der Rudolf-Steiner-Schule Bühne auf. (verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024](eurythmie.png "Tanz der Harmonie von Seele, Körper und Geist. Schüler*innen führen Eurythmie auf der Rudolf-Steiner-Schule Bühne auf. (verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024")
+![Tanz der Harmonie von Seele, Körper und Geist. Auftritt von Schüler*innen von Eurythmie auf der Rudolf Steiner Schule Bühne auf.(verfügbar unter www.steinerschule- bern.ch/portfolio/eurythmie/ stand 23.02.2024)](eurythmie.png "Tanz der Harmonie von Seele, Körper und Geist. Auftritt von Schüler*innen von Eurythmie auf der Rudolf Steiner Schule Bühne auf.(verfügbar unter www.steinerschule-bern.ch/portfolio/eurythmie/ stand 23.02.2024)")
 
 ### Die Pädagogik spürbar am Basar
 
