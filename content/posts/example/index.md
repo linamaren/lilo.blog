@@ -1,6 +1,6 @@
 +++
 title = "Example Post"
-date = "2024-02-25"
+date = "2024-02-13"
 draft = false
 pinned = false
 tags = ["Lilo", "Example"]
