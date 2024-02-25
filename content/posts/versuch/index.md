@@ -23,9 +23,7 @@ Um mehr über diese besondere Bildungsphilosophie zu erfahren, gibt es nur einen
 
 ![Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachte Holzfiguren und Gemälden.](basar-bild.jpg "Handgemacht Kunst, wohin das Auge reicht. Ein Basar Stand an der Rudolf Steiner Schule mit handgemachte Holzfiguren und Gemälden.")
 
-
-
-**Die Pädagogik hinter der Rudolf Steiner Schule**
+#### **Die Pädagogik hinter der Rudolf Steiner Schule**
 
 Die Atmosphäre an der Rudolf Steiner Schule zeichnet sich durch Kreativität und Individualität aus. Dies wird beim Durchschlendern des Basars deutlich spürbar. Hier liegt der Fokus auf der natürlichen Entwicklung des Kindes. Lehrpläne unterscheiden sich in grossen Teilen von den herkömmlichen. Sie sind nicht durchstrukturiert, sondern dienen nur als grober Richtwert. Der Unterricht wird in Epochen gestaltet, was bedeutet, dass sich die Schüler*innen für längere Zeit auf ein bestimmtes Fach konzentrieren. Dies ermöglicht ein tieferes Eintauchen in das Thema. Denn in Unterrichtseinheiten gilt Qualität vor Quantität. Es wird weniger Stoff behandelt, jedoch wird das Wissen viel intensiver und tiefer vermittelt, um Informationen langfristig zu lehren. Danach kann man die «Wissenslücken» einfach füllen, da man das grosse Ganze verstanden und noch präsent hat, so zumindest laut Herr Florian Furrer, Lehrer an der Rudolf Steiner Schule Ittigen und Standortleitung dieser Schule. 
 
@@ -35,17 +33,42 @@ Ein Markenzeichen dieser Schulen ist die Einführung von Eurythmie, einer einzig
 
 Das Leitbild der Rudolf Steiner Schulen stützt sich auf den Glauben an die Gemeinschaft. Das Ziel ist es, dem einzelnen zu seinem Besten zu verhelfen aber ebenso ihn seinen Platz in der Gemeinschaft finden zu lassen. Die Schule unternimmt zahlreiche Aktivitäten zur Stärkung der Gemeinschaft, beispielsweise diesen Basar.
 
+> *«Der Basar soll Gemeinschaft, Pflege und Hauswirtschaft fördern. Aber auch das
+> Gemeinschaftsgefühl und die Kultur sollen gestärkt werden. Die Kinder sollen realisieren,
+> dass sie die Schule sind.»* (Florian Furrer, 25.11.2023)
+
+#### Diese Philosophie stösst auch auf Kritik
+
+Heutzutage kritisieren einige dieses Lernmodel, da es angeblich für die Kinder nicht fördernd sei,
+wenn sie eine zu starke emotionale Bindung zu einer Lehrperson hätten. Ausserdem sei es fast
+unverantwortbar zu erwarten, dass eine Lehrperson sich das Wissen für acht Schuljahre souverän
+aneignen und weitergeben könne. Auf den zweiten Kritikpunkt treten einige Schulen ein und lassen
+die Lehrpersonen drei bis sechs Jahre bei der gleichen Klasse und nicht acht, so auch die Rudolf
+Steiner Schule in Ittigen. 
+Ebenfalls bemängelt werden Eurythmie und der grosse Anteil an Kunst- und Handarbeitsfächern.
+Kritiker sind der Meinung, dass dies die Kinder nicht weiterbringe, sondern pure Zeitverschwendung
+sei. Die Pädagogik hinter der Steiner Schule legt jedoch expliziten Wert darauf, denn dies soll die
+Selbstverwirklichung und Entfaltung der Kinder fördern. 
+Aussenstehende bringen auch Kritik an der Gemeinschaft an, denn die Rudolf Steiner Schule wirke
+abgeschlossen von der Aussenwelt, und dies würde den Kindern mögliche alternative Perspektiven
+verwehren und einen gewissen Grad an Homogenität entstehen lassen. Einer der grössten
+Kritikpunkte im digitalen Zeitalter ist der fehlende Umgang mit neuen Medien. Dies räumt Herr Furrer
+ebenfalls ein: „Im Vergleich zu staatlichen Schulen haben wir punkto digitaler Medien aber noch viel
+aufzuholen.“
+Trotz der Kritikpunkte gibt es viele Eltern, welche den Fokus auf persönliche Entfaltung und kreative
+Verwirklichung schätzen und gerade deswegen die Rudolf Steiner Schule für ihre Kinder wählen. Die
+Debatte über diesen alternativen Bildungsweg wird weithin kontrovers geführt. Diskussionspunkte
+
+sind, ob die Rudolf Steiner Schule tatsächlich einen Weg zu einer ganzheitlichen Bildung darstellt und
+ob sie den Anforderungen der modernen Welt ausreichend gerecht werden kann.
+
+
+
 ### Überschrift 3
 
 Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
 
 #### Überschrift 4
-
-
-
-
-
-
 
 ## Weitere Textformatierungen
 
