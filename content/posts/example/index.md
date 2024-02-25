@@ -1,10 +1,10 @@
 +++
-title = "Example Post"
-date = "2023-01-01"
+title = "Basar, Bildung, Gemeinschaft Die einzigartige Welt der Rudolf Steiner Schule"
+date = "2024-02-25"
 draft = false
 pinned = false
-tags = ["Lilo", "Example"]
-image = "/img/default-image.jpg"
+tags = ["SteinerSchule", "Pädagogik", "Basar"]
+image = "basar-bild-1_compressed.png"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
