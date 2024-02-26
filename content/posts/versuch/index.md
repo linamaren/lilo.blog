@@ -74,7 +74,7 @@ In den Theatersälen, welche das gleiche architektonische Muster aufweisen, wie 
 Gebäudes, sind Kurzauftritte von Schülerinnen der Schule zu sehen. Beim Betrachten dieser
 Darbietungen ist zu erkennen, dass diese hervorragend strukturiert sind und authentisch wirken. Die
 Kinder entfalten auf dieser Bühne förmlich ihr Inneres, sie drücken Einklang zwischen Geist, Körper
-und Seele aus und verzaubern die Menschenmassen*.* Die Auftritte gehen zu Ende und der Applaus
+und Seele aus und verzaubern die Menschenmassen. Die Auftritte gehen zu Ende und der Applaus
 beginnt zu toben. Die Menschen erheben sich und strömen mit heiteren Gesprächen aus dem Saal.
 Auf einer Steinbank sitzend, wird das Gehörte und Gesehene eingeordnet und reflektiert. Die
 selbstgefertigten Postkarten, Kerzen und der Schmuck, welche auf den Basarständen präsentiert
