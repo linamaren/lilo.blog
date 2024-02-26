@@ -71,7 +71,7 @@ ob sie den Anforderungen der modernen Welt ausreichend gerecht werden kann.
 ### Die Pädagogik spürbar am Basar
 
 In den Theatersälen, welche das gleiche architektonische Muster aufweisen, wie der Rest des
-Gebäudes, sind Kurzauftritte von Schüler*i*nnen der Schule zu sehen. Beim Betrachten dieser
+Gebäudes, sind Kurzauftritte von Schülerinnen der Schule zu sehen. Beim Betrachten dieser
 Darbietungen ist zu erkennen, dass diese hervorragend strukturiert sind und authentisch wirken. Die
 Kinder entfalten auf dieser Bühne förmlich ihr Inneres, sie drücken Einklang zwischen Geist, Körper
 und Seele aus und verzaubern die Menschenmassen*.* Die Auftritte gehen zu Ende und der Applaus
