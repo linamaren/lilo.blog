@@ -1,5 +1,5 @@
 +++
-title = "Im Gespräch mit Florian Furrer: Ein Blick hinter die Kulissen der   Rudolf-Steiner-Schule "
+title = "Im Gespräch mit Florian Furrer: Ein Blick hinter die Kulissen der Rudolf-Steiner-Schule "
 date = "2024-02-25"
 draft = false
 pinned = false
