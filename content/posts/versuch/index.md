@@ -11,9 +11,9 @@ description = "Einmal im Jahr öffnet die Rudolf Steiner Schule in Ittigen ihre 
 
 Einmal im Jahr öffnet die Rudolf Steiner Schule in Ittigen ihre Tore für den viel erwarteten Steiner Schul-Basar. Ein bunter Marktplatz der Kreativität, der nicht nur ein Schaufenster für Kunsthandwerk und kulinarische Köstlichkeiten bietet, sondern auch Einblicke in die einzigartige pädagogische Philosophie dieser alternativen Bildungseinrichtung gewährt. Im Mittelpunkt des Schulalltags steht ein Streben nach Einklang und Ganzheit von Seele, Geist und Körper. Durch rhythmisches Tanzen, farbenfrohes Gestalten und Zeit in der Natur wird auf diese Ziele hingesteuert. Dahinter steckt traditionsreiche Pädagogik, Gemeinschaft und Herzblut. 
 
-Rahel Krebs, Lina Britschgi 
-
 {{</lead>}}
+
+Rahel Krebs, Lina Britschgi 
 
 ![Gemeinschaft und Kreativität sind das oberste Gebot! Ein Blick auf den Basar der Rudolf Steiner Schule, wo Handwerkskunst und Begegnungen im Einklang mit der Schule stehen.](basar-bild-1_compressed.png "Gemeinschaft und Kreativität sind das oberste Gebot! Ein Blick auf den Basar der Rudolf Steiner Schule, wo Handwerkskunst und Begegnungen im Einklang mit der Schule stehen.")
 
