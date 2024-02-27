@@ -24,15 +24,11 @@ Es ist eine Schule, die versucht auf alle Entwicklungsbedürfnisse der Kinder ei
 
 **Welche Verbesserungsmöglichkeiten sehen Sie an der Struktur oder der Pädagogik der Schule?**  
 
-Da die Medienwelt immer wichtiger wird, versuchen wir Medien vermehrt zu integrieren. 
-
-Ausserdem versuchen wir uns in Bereichen von ADHS, Legasthenie und anderen Einschränkungen der Kinder weiterzubilden. In diesen Bereichen möchten sie sich weiter spezialisieren, um auf Schwierigkeiten der Kinder noch besser eingehen zu können.  
+Da die Medienwelt immer wichtiger wird, versuchen wir Medien vermehrt zu integrieren. Ausserdem versuchen wir uns in Bereichen von ADHS, Legasthenie und anderen Einschränkungen der Kinder weiterzubilden. In diesen Bereichen möchten sie sich weiter spezialisieren, um auf Schwierigkeiten der Kinder noch besser eingehen zu können.  
 
 **Was können andere Schulen von der Rudolf-Steiner-Schule lernen?**  
 
-Es sollte an allen Schulen mehr Fokus auf sich selbst bzw. das Individuum gelegt werden.  
-
-And der Rudolf-Steiner-Schule wird die Resilienz gefördert, andere Schulen legen zu wenig Wert darauf.  
+Es sollte an allen Schulen mehr Fokus auf sich selbst bzw. das Individuum gelegt werden.  And der Rudolf-Steiner-Schule wird die Resilienz gefördert, andere Schulen legen zu wenig Wert darauf.  
 
 **Worin unterscheiden sich die Rudolf-Steiner-Schule von anderen Schulen?** 
 
@@ -48,9 +44,7 @@ Beim Epochenunterricht werden Dinge präzise angeschaut, dann vergessen beziehun
 
 **Ist Epochenunterricht effektiver?** 
 
-Die Motivation ist unterschiedlich. Es hat Vor- und Nachteile. Bei Interesse an einer Epoche kann man vertiefen, wenn man ein Fach nicht mag, ist es nach einigen Wochen vorbei.  
-
-Die Lehrperson kann der Differenzierung mehr gerecht werden. Somit wird potential mehr wahrgenommen, und Schwächen können besser erkannt und unterstützt werden.  
+Die Motivation ist unterschiedlich. Es hat Vor- und Nachteile. Bei Interesse an einer Epoche kann man vertiefen, wenn man ein Fach nicht mag, ist es nach einigen Wochen vorbei. Die Lehrperson kann der Differenzierung mehr gerecht werden. Somit wird potential mehr wahrgenommen, und Schwächen können besser erkannt und unterstützt werden.  
 
 **Was hat es mit dem Fach Eurythmie auf sich?** 
 
@@ -78,11 +72,7 @@ Ich hoffe, dass zukünftig mehr Vertrauen in die Schule gelegt wird. Sie soll we
 
 **Können Sie sich erklären, weshalb die Schule so stigmatisiert wird?** 
 
-Alles, was anders ist wird stigmatisiert. Jedoch kann man dies abbauen, indem man sich kennenlernt und kommuniziert.   
-
-Oft wird kritisiert, dass Rudolf-Steiner-Schulen keine unabhängigen, ergebnisoffenen Untersuchungen, ihrer pädagogischen Praxis zu lassen. Denken Sie, die Kritik ist zutreffend, und wenn ja wieso denken sie ist das so? 
-
-Die Nationalen Weiterbildungskurse sind öffentlich und da kann jeder hingehen. Auch alle Lehrer besuchen diesen Kurs.  
+Alles, was anders ist wird stigmatisiert. Jedoch kann man dies abbauen, indem man sich kennenlernt und kommuniziert. Oft wird kritisiert, dass Rudolf-Steiner-Schulen keine unabhängigen, ergebnisoffenen Untersuchungen, ihrer pädagogischen Praxis zu lassen. Denken Sie, die Kritik ist zutreffend, und wenn ja wieso denken sie ist das so? Die Nationalen Weiterbildungskurse sind öffentlich und da kann jeder hingehen. Auch alle Lehrer besuchen diesen Kurs.  
 
 **Welchen Zweck erfüllt der heutige Basar?**  
 
